@@ -1,0 +1,49 @@
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files #
+#############
+nbproject
+.~lock.*
+.buildpath
+.idea
+.project
+.settings
+composer.lock
+.idea
+*.iml
+.vscode
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+chrome-user-data
+
+# PROJECT SPECIFIC #
+####################
+node_modules
